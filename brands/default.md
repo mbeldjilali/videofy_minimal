@@ -1,6 +1,6 @@
 # Default Brand Config
 
-This documents [`default.json`](/Users/anders.haarr@vg.no/git/videofy_minimal/brands/default.json).
+This documents [`default.json`](./default.json).
 
 The brand file must stay valid JSON. Regular JSON comments are not supported by the CMS or backend loaders.
 
